@@ -1,0 +1,12 @@
+{
+    "name"         : "hxluaplayer",
+    "url"          : "https://github.com/Orange-hx/hxluaplayer",
+    "license"      : "Public",
+    "tags"         : [ "psp", "lua", "externs", "game" ],
+    "description"  : "Haxe externs for LuaPlayer!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
